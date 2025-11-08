@@ -1,9 +1,11 @@
 # ISLP notes
-This repo contains notes for my work on ISLP
+This repo contains notes for my work on ISLP (introduction to statistical learning in python)
 
-Main focus is on creating artifacts
--> notes
--> proofs
--> programs
+I'll include my exercise outcomes here
 
-etc
+## Structure
+- chapter_i
+    - exercise_j
+        - exercise artifacts (ipynb, datsets... etc)
+
+- requirements.txt (env)
