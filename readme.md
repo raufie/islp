@@ -9,3 +9,6 @@ I'll include my exercise outcomes here
         - exercise artifacts (ipynb, datsets... etc)
 
 - requirements.txt (env)
+
+
+datasets taken from uknow [www.statlearning.com](https://www.statlearning.com/resources-python)
